@@ -12,7 +12,7 @@ export const environment = {
     projectId: "ng-fitnesstracker-4ec72",
     storageBucket: "ng-fitnesstracker-4ec72.appspot.com",
     messagingSenderId: "626447904154",
-    appId: "1:626447904154:web:55105f42bed0a776025e23",
-    measurementId: "G-333X296G4F"
+    //appId: "1:626447904154:web:55105f42bed0a776025e23",
+    //measurementId: "G-333X296G4F"
   }
 };
